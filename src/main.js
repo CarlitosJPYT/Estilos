@@ -17,3 +17,5 @@ const fugue = {
     "Coda" : "C"
   }
 }
+
+console.log(fugue);
