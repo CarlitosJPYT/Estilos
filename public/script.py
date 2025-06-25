@@ -21,5 +21,6 @@ requiem = {
         "Agnus" : "Dei",
         "Communio" : ["Lux", "Aeterna"]
     }
-  
-  print(requiem)
+}
+
+print(requiem)
