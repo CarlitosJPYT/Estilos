@@ -22,3 +22,5 @@ const requiem = {
         "Communio" : ["Lux", "Aeterna"]
     }
 }
+
+console.log(requiem)
